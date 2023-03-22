@@ -17,7 +17,7 @@ public:
 	void display() const;
 	void add(PhoneBookEntry);
 	void sort();
-    bool search(string, PhoneBookEntry &);
+        bool search(string, PhoneBookEntry &);
 	void resize();
 
 private:
